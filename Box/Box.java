@@ -1,4 +1,4 @@
-package Homework.Box;
+package Homework.Box; // это задание на двух файлах. Я перепутала ссылки и это задание за 16 марта(у меня вместо BoxNew - BoxOne)
 
 public class Box {
     public static void main(String[] args) {
