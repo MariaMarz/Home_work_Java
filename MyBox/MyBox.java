@@ -1,4 +1,4 @@
-package Homework.MyBox;
+package Homework.MyBox; // это задание на двух файлах. Я перепутала ссылки и это задание за 15 марта
 
 public class MyBox {
     int width;
